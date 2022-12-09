@@ -23,7 +23,7 @@ namespace Game
 
 	// 背景用画像
 	const char* const kBackgroundGraph = "imagedata/StageBackground.png";
-	const char* const kPlayerGraph = "imagedata/player22.png";
+	const char* const kPlayerGraph = "imagedata/virus_s.png";
 	
 	// 基準のフォントサイズ
 	constexpr int kFontSize = 60;
