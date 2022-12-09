@@ -12,7 +12,7 @@ namespace Game
 	constexpr int kScreenWidthHalf = kScreenWidth / 2;
 	constexpr int kScreenHeightHalf = kScreenHeight / 2;
 
-	const char* const kGameMainMusic = "sounddata/Tahe Moon Theme.mp3";
+	const char* const kGameMainMusic = "sounddata/The Moon Theme.mp3";
 
 	// ゲームのステージサイズ
 	constexpr int kStageUpperLimit = 100;
